@@ -6,6 +6,7 @@ def add(x, y):
 def subtract(x, y):
     """Subtract Function"""
     return x - y
+    print("SUBTRACT")
 
 
 def multiply(x, y):
